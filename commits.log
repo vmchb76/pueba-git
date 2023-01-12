@@ -1,0 +1,98 @@
+commit 394075030270fd6d34e56e4e9f3a8b8b72ca1797
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 19:14:12 2023 -0600
+
+    Agrgeando dos parrafos
+
+commit d0cfdf520366059eaecc07913ccc8146b7df769b
+Merge: 35eee5c 157d5c7
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 19:11:24 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 35eee5c6ebf6352ee280396c410e5db014256d88
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 18:53:50 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 157d5c733e8cd1967a67899b213f82eaeaa3d8c6
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 18:53:50 2023 -0600
+
+    Agregando las estaciones del año
+
+commit a0fb5530f20b9dbeeeb19559b839b819084a7308
+Merge: b35ca24 d1a674e
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 18:46:52 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d1a674eee329ba30f4cb18b6db738470b39834ed
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 18:37:00 2023 -0600
+
+    Agregando index.js al index.html
+
+commit b35ca247c71c48060fbf0b809209fbef157757c8
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 18:32:17 2023 -0600
+
+    Agregando style.css al inmdex.html
+
+commit 082c8b073ae683248796d8b36f0122636b8512d5
+Merge: 55c8039 e5eef1f
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 18:14:29 2023 -0600
+
+    Merge branch 'js'
+
+commit e5eef1fedeff1005dcced702786703aac1300f3b
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 11:42:40 2023 -0600
+
+    Creando index.js
+
+commit 55c8039aa6401ccbdf67f98b58dc633f14b76c3d
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 11:34:14 2023 -0600
+
+    Creando style.css
+
+commit 8881a67983fa750a592a965b459668217031b5c9
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 4 11:28:23 2023 -0600
+
+    Creando index.html
+
+commit 27b4d80eee348e0a9978ad41184c2bfe25faa0c1
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Jan 3 20:15:41 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 2a229ae06e3fa851524dfa4b302a7f3beb0113ca
+Author: Victor Manuel Chavarria Barajas <74920786+vmchb76@users.noreply.github.com>
+Date:   Tue Jan 3 19:28:04 2023 -0600
+
+    Creando licencia del repositorio
+
+commit cbfb6decdf3fa6d68bb5905dae065f5ed2b3150c
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Jan 3 19:14:08 2023 -0600
+
+    Agregando mas contenido al README
+
+commit a4673b9a6fc685cdc49211ad09385ac856fa4554
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Mon Jan 2 20:20:36 2023 -0600
+
+    Agregando contenido iniclal al README
+
+commit f492ac7f014bcdc822bf1099ca75c570b8161ed1
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Mon Jan 2 20:11:48 2023 -0600
+
+    Primer Comit 😀
