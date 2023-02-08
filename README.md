@@ -1,10 +1,7 @@
 # Curso de _Git_ & _GitHub_
 
-texto de prueba
+Quieres dominar el uso de _git_? 
 
-Agregando mas contenido al _README_
+Mira este [enlace](https:/jonmircha.com/git).
 
-Este commit es para oficializar nuestra version **2.0.0**.
-
-Parrafos de pruebas
-
+![Flujo de Git](git-flow.png)
