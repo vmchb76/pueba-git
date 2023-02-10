@@ -1,3 +1,85 @@
+commit 80e8e6ad154a14e3b57a1afb2e1bdec2bb25e855
+Merge: 802e5e3 4e942ea
+Author: Victor Manuel Chavarria Barajas <74920786+vmchb76@users.noreply.github.com>
+Date:   Tue Feb 7 19:57:30 2023 -0600
+
+    Merge pull request #1 from skynet1976/readme2
+    
+    Readme2
+
+commit 4e942eaddae7380cc4a9e1a79c96d99f4b0d51d0
+Merge: 9068934 802e5e3
+Author: skynet1976 <124114047+skynet1976@users.noreply.github.com>
+Date:   Tue Feb 7 19:51:45 2023 -0600
+
+    Merge branch 'main' into readme2
+
+commit 90689344902b6d50a116842fb70a4082cee28f1c
+Author: Viktor K <vmchb@icloud.com>
+Date:   Tue Feb 7 19:39:44 2023 -0600
+
+    Haciendo mejoras al README del repositorio
+
+commit 229ef3c3d87c8434d4e2541d1bddf2c0e30ce42a
+Author: Viktor K <vmchb@icloud.com>
+Date:   Tue Feb 7 19:12:49 2023 -0600
+
+    Agregando cambios desde la otra cuenta git
+
+commit 926288db424900010b995d6d1d58b2f759b86e72
+Author: Viktor K <vmchb@icloud.com>
+Date:   Fri Feb 3 19:35:40 2023 -0600
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 802e5e3682f83931726debcf3bc1d7849283714c
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Feb 1 19:32:56 2023 -0600
+
+    Commits de pruebas de la cuenta global
+
+commit 8b2e21282399ef80698d093ff618a39b45c2d3b7
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Feb 1 19:19:03 2023 -0600
+
+    Commit de prueba de la cuenta principal
+
+commit 011e1a760d5b4a9488c5c54062ed02962e1466ab
+Author: Viktor Kalasnikov <vmchb@icloud.com>
+Date:   Wed Feb 1 19:10:25 2023 -0600
+
+    Cambio de prueba en la otra cuenta de git
+
+commit 070c7b07c3275dae1870ad7ba73499fed5c7a4ba
+Author: Viktor Kalasnikov <vmchb@icloud.com>
+Date:   Wed Feb 1 19:02:02 2023 -0600
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 29e0cfc7f994540dfb87997de8226134c0ee2abe
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Jan 31 20:39:21 2023 -0600
+
+    Version 2.0.0
+
+commit 31dcb850bbb83ed036cb67dd25066c30c839def6
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Thu Jan 12 19:27:09 2023 -0600
+
+    Agregando imagen de flujo Git y dandole presentacion al index.html
+
+commit 7de31180c95cd3709042bcf8e6a1f4e53536b48c
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Thu Jan 12 18:52:45 2023 -0600
+
+    v1.0.0
+
+commit 670d43b8bb7bef48b76db7b92c97a3216d4110e0
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Jan 11 18:08:45 2023 -0600
+
+    Respaldando logs del repositorio
+
 commit 394075030270fd6d34e56e4e9f3a8b8b72ca1797
 Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
 Date:   Wed Jan 4 19:14:12 2023 -0600
